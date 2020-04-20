@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Picture Memory</string>
+    <string name="reset_game">Reset</string>
+</resources>
